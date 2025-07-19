@@ -1,0 +1,12 @@
+README
+.gitignore
+
+git add .
+By default, git(not GitHub) does not see the files you have in your project
+
+"." - every single file in this folder
+
+.gitignore.txt
+
+aklsfj;ajfajsdlk;jflk;jasdlk;
+aljsdfjkasldjfklsajfkjsl;kasjkfl

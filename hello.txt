@@ -6,6 +6,8 @@ By default, git(not GitHub) does not see the files you have in your project
 
 "." - every single file in this folder
 
+Hello there!!!!!!!!!
+
 .gitignore.txt
 
 aklsfj;ajfajsdlk;jflk;jasdlk;

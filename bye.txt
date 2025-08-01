@@ -4,4 +4,8 @@ hello there
 New change!!!!!!!!!!!!
 New change!!!!!!!!!!!!
 New change mark 2
+<<<<<<< HEAD
 Change from person B
+=======
+person A's other change
+>>>>>>> d4e3a6370a96418dbf6d12f55a024b01dde6b5bf
